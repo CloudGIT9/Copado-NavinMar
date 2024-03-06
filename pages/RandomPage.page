@@ -1,0 +1,7 @@
+<apex:page >
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>Random Page</h1>
+  <p>By Naveen</p>
+  This is your Random Page
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>

@@ -332,6 +332,14 @@
         <fullName>Tier</fullName>
     </fields>
     <fields>
+        <fullName>Time__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Time</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>Type</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>

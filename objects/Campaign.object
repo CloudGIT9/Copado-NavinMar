@@ -178,6 +178,13 @@
         <fullName>AmountWonOpportunities</fullName>
     </fields>
     <fields>
+        <fullName>Beta__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Beta</label>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>BudgetedCost</fullName>
     </fields>
     <fields>

@@ -473,6 +473,17 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>TestCon2__c</fullName>
+        <externalId>false</externalId>
+        <label>TestCon2</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>TestCon__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>

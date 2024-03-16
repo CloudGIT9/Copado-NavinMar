@@ -163,6 +163,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Gamma__c</fullName>
+        <externalId>false</externalId>
+        <label>Gamma</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackHistory>false</trackHistory>
+        <type>Percent</type>
+    </fields>
+    <fields>
         <fullName>ImageClass</fullName>
         <trackHistory>false</trackHistory>
     </fields>

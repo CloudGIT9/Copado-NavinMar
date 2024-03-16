@@ -11,6 +11,11 @@
         <field>Image.Beta__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Image.Gamma__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <userLicense>Analytics Cloud Integration User</userLicense>
     <userPermissions>
         <enabled>true</enabled>
